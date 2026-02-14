@@ -1,5 +1,5 @@
 requests
-webbrowser
+web-browser
 platform
 os
 threading
