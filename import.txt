@@ -1,0 +1,12 @@
+requests
+webbrowser
+platform
+os
+threading
+asyncio
+aiohttp
+concurrent.futures
+datetime
+pystyle
+colorama
+sys
