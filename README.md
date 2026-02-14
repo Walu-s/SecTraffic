@@ -16,7 +16,11 @@
 
     git clone https://github.com/Walu-s/SecTraffic
     cd SecTraffic
-    pip install -r import.txt
+    pip install requests
+    pip install pystyle
+    pip install colorama
+    pip install web-browser
+    pip install platform
     python SecTraffic.py
 
 **Софт построена на вызове функций и отправке HTTP-запросов**
